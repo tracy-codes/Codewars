@@ -8,3 +8,4 @@ These are my solutions to the [Codewars](https://www.codewars.com/) challenges
 
 1. Isograms (Dec 16, 2018)
 2. Sum of odd numbers (Dec 16, 2018)
+3. Sum of the first nth term of Series (Dec 17, 2018)
